@@ -11,9 +11,7 @@ dist-windows/
 .cursor/
 .cursorrules
 .windsurfrules
-AGENTS.md
-CLAUDE.md
-GEMINI.md
+# AI docs restored
 .claude/
 .kiro/
 .mcp.json
