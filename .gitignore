@@ -1,0 +1,25 @@
+# Added by code-review-graph
+.code-review-graph/
+node_modules/
+dist/
+dist-windows/
+*.exe
+*.dll
+*.pak
+*.dat
+*.bin
+.cursor/
+.cursorrules
+.windsurfrules
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.claude/
+.kiro/
+.mcp.json
+.opencode.json
+goose/
+ruflo/v3/agent-browser
+ruflo/v3/agent-browser.cmd
+ruflo/v3/agent-browser.ps1
+temp-check/
