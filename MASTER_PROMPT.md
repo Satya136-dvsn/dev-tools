@@ -1,12 +1,12 @@
 # Master Developer System Prompt
 
-Use this prompt at the start of any major project session to activate all advanced agentic tools and specialized skills.
+Use this prompt at the start of any major project session to activate all advanced agentic tools and specialized skills across **any AI Coding Assistant** (Cursor, Claude Code, Trae, Antigravity, etc.).
 
 ---
 
 ## The Prompt
 
-"Hey Antigravity, we are working in **[FOLDER_PATH]**.
+"Hey Assistant, we are working in **[FOLDER_PATH]**.
 
 ### 🛠️ Advanced Tooling
 1. **Structural Intelligence**: Use **Code Review Graph** for impact analysis and dependency mapping.
