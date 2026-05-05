@@ -13,6 +13,12 @@ Use this prompt at the start of any major project session to activate all advanc
 2. **Semantic Context**: Use **Graphify** for holistic understanding. (Run `/graphify` to index).
 3. **High-Speed Execution**: Use **Ruflo (Agentic Flow)** for all file modifications.
 
+### 🔍 Discovery & Analysis Phase (MANDATORY)
+Before starting any work, you MUST:
+1. **Map the Architecture**: Run `get_architecture_overview` (Code Review Graph) and check the Graphify graph to understand the current project state.
+2. **Identify Patterns**: Locate existing design patterns, naming conventions, and state management logic to ensure consistency.
+3. **Draft a Plan**: Present your understanding of the current structure and a brief implementation plan for my approval before modifying any files.
+
 ### 🧠 Specialized Skills Activation
 Activate the following expert roles for this session:
 * **Architecture & Strategy**: `@backend-architect`, `@senior-architect`, `@architect-review`
