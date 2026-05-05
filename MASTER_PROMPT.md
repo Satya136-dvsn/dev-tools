@@ -15,11 +15,16 @@ Use this prompt at the start of any major project session to activate all advanc
 
 ### 🧠 Specialized Skills Activation
 Activate the following expert roles for this session:
-* **Architecture**: `@backend-architect`, `@senior-architect`
-* **Full Stack**: `@senior-fullstack`, `@full-stack-orchestration`
-* **Frontend & UI/UX**: `@frontend-design`, `@high-end-visual-design`, `@ui-ux-pro-max`, `@antigravity-design-expert`
-* **Backend & Systems**: `@python-pro`, `@java-pro`, `@golang-pro`, `@springboot-pro`
-* **Data & AI**: `@database-architect`, `@llm-app-patterns`, `@rag-engineer`, `@ai-engineer`
+* **Architecture & Strategy**: `@backend-architect`, `@senior-architect`, `@architect-review`
+* **Full Stack & Management**: `@senior-fullstack`, `@full-stack-orchestration`, `@agent-manager-skill`
+* **Frontend, Design & UX**: `@frontend-design`, `@high-end-visual-design`, `@ui-ux-pro-max`, `@antigravity-design-expert`, `@design-spells`, `@animejs-animation`, `@magic-animator`
+* **Web Frameworks**: `@nextjs-best-practices`, `@react-patterns`, `@tailwind-patterns`, `@typescript-pro`, `@sveltekit`, `@astro`
+* **Backend & Systems**: `@python-pro`, `@java-pro`, `@golang-pro`, `@springboot-pro`, `@rust-pro`, `@dotnet-backend`
+* **Data, AI & RAG**: `@database-architect`, `@llm-app-patterns`, `@rag-engineer`, `@ai-engineer`, `@embedding-strategies`, `@transformers-js`
+* **Cloud & DevOps**: `@docker-expert`, `@aws-skills`, `@azure-ai-projects-py`, `@vercel-deployment`, `@gitops-workflow`, `@github-actions-templates`
+* **Mobile & Cross-Platform**: `@flutter-expert`, `@react-native-architecture`, `@expo-deployment`, `@android-jetpack-compose-expert`
+* **Security & Quality**: `@security-auditor`, `@solidity-security`, `@tdd-workflow`, `@performance-engineer`, `@ui-a11y`
+* **Automation**: `@browser-automation`, `@apify-lead-generation`, `@n8n-workflow-patterns`
 
 ### 🎯 Objective
 **[YOUR_GOAL_HERE]**"
