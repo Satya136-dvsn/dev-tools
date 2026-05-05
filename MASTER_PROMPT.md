@@ -19,6 +19,13 @@ Before starting any work, you MUST:
 2. **Identify Patterns**: Locate existing design patterns, naming conventions, and state management logic to ensure consistency.
 3. **Draft a Plan**: Present your understanding of the current structure and a brief implementation plan for my approval before modifying any files.
 
+### 📉 Token Efficiency Policy
+To minimize token usage and maximize speed:
+1. **Graph-First**: Always use `code-review-graph` or `graphify` summaries instead of reading full files whenever possible.
+2. **Surgical Edits**: Use **Ruflo** to modify only the necessary lines. Avoid rewriting entire files.
+3. **Atomic Context**: Focus on one component or function at a time. Do not load irrelevant files into context.
+4. **Minimal History**: If the conversation becomes long, suggest a checkpoint or a new session to clear context bloat.
+
 ### 🧠 Specialized Skills Activation
 Activate the following expert roles for this session:
 * **Architecture & Strategy**: `@backend-architect`, `@senior-architect`, `@architect-review`
