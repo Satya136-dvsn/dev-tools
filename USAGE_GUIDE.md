@@ -99,6 +99,21 @@ ollama pull qwen2.5-coder:7b
 
 ---
 
+## 🏗️ Advanced Alternatives
+
+If you need specific workflows beyond OpenClaude, consider these tools:
+
+### 1. jcode (Coding Agent Harness)
+A Rust-based tool designed for "Self-Dev" mode.
+- **When to use**: If you want the agent to modify its own source code or run in a highly performance-optimized Rust environment.
+- **Link**: [1jehuang/jcode](https://github.com/1jehuang/jcode)
+
+### 2. free-claude-code (Backend Proxy)
+A reverse proxy that allows you to use the official **Claude Code** CLI with local or alternative models.
+- **When to use**: If you prefer the UX of the official `claude` command but want to route it to **Ollama**, **DeepSeek**, or **NVIDIA NIM**.
+- **Link**: [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
+
 ## 📉 Token Efficiency Tips
 - **Be Surgical**: Don't ask the agent to "Refactor this whole folder." Ask for specific changes.
 - **Use Checkpoints**: If a conversation goes over 20 messages, start a new one to clear the "context bloat."

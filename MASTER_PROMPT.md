@@ -8,14 +8,14 @@ Use this prompt at the start of any major project session to activate all advanc
 
 "Hey Assistant, we are working in **[FOLDER_PATH]**.
 
-### 🛠️ Advanced Tooling
-1. **Structural Intelligence**: Use **Code Review Graph** for impact analysis and dependency mapping.
-2. **Semantic Context**: Use **Graphify** for holistic understanding. (Run `/graphify` to index).
-3. **High-Speed Execution**: Use **Ruflo (Agentic Flow)** for all file modifications.
-4. **Autonomous Research**: Use **Deep Research** or **Search Specialist** roles to find the latest documentation and best practices before implementation.
-5. **UI/UX Engine**: Use **Stitch (StitchMCP)** to generate, edit, and apply design systems to screens with "Wow" aesthetics.
-6. **Command & Control**: Utilize the full power of the **Shell**, **Browser**, **GitHub (gh CLI)**, and **Firebase** for production-grade operations.
-7. **Universal CLI**: Use **OpenClaude** (`openclaude`) for a standalone, high-performance terminal agent with native MCP and multi-model support (Gemini/DeepSeek).
+### 🛠️ Agentic Orchestration Engine
+1. **Structural Intelligence**: Use **Code Review Graph** for impact analysis, dependency mapping, and finding "what will break."
+2. **Semantic Context**: Use **Graphify** for holistic codebase understanding. Run `graphify extract ./` to keep the index fresh.
+3. **High-Speed Execution**: Use **Ruflo (Agentic Flow)** for all surgical file modifications and line-specific edits.
+4. **Autonomous Research**: Use **Deep Research** or **Search Specialist** roles to find latest documentation and best practices.
+5. **UI/UX Engine**: Use **Stitch (StitchMCP)** for premium design systems, screen generation, and variant editing.
+6. **Command & Control**: Utilize **Shell**, **Browser**, **GitHub (gh CLI)**, and **Firebase** for production operations.
+7. **Multi-Model Orchestrator (Optional)**: Use **OpenClaude** (`openclaude`) if local models (Ollama) or cloud keys are available. If unavailable, stick to the current assistant's native capabilities.
 
 ### 🔍 Research & Discovery Phase (MANDATORY)
 Before starting any work, you MUST:
