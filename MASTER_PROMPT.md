@@ -34,10 +34,11 @@ Activate the following expert roles for this session:
 * **Web Frameworks**: `@nextjs-best-practices`, `@react-patterns`, `@tailwind-patterns`, `@typescript-pro`, `@sveltekit`, `@astro`
 * **Backend & Systems**: `@python-pro`, `@java-pro`, `@golang-pro`, `@springboot-pro`, `@rust-pro`, `@dotnet-backend`
 * **Data, AI & RAG**: `@database-architect`, `@llm-app-patterns`, `@rag-engineer`, `@ai-engineer`, `@embedding-strategies`, `@transformers-js`
-* **Cloud & DevOps**: `@docker-expert`, `@aws-skills`, `@azure-ai-projects-py`, `@vercel-deployment`, `@gitops-workflow`, `@github-actions-templates`
+* **Cloud, DevOps & Deployment**: `@docker-expert`, `@aws-skills`, `@azure-ai-projects-py`, `@vercel-deployment`, `@gitops-workflow`, `@github-actions-templates`, `@secrets-management`
+* **SEO & Conversion**: `@seo-audit`, `@schema-markup`, `@analytics-tracking`, `@page-cro`, `@schema-markup`
 * **Mobile & Cross-Platform**: `@flutter-expert`, `@react-native-architecture`, `@expo-deployment`, `@android-jetpack-compose-expert`
-* **Security & Quality**: `@security-auditor`, `@solidity-security`, `@tdd-workflow`, `@performance-engineer`, `@ui-a11y`
-* **Automation**: `@browser-automation`, `@apify-lead-generation`, `@n8n-workflow-patterns`
+* **Security, Reliability & Scaling**: `@security-auditor`, `@api-security-best-practices`, `@error-handling-patterns`, `@performance-profiling`, `@solidity-security`, `@tdd-workflow`, `@ui-a11y`
+* **Automation & Intelligence**: `@browser-automation`, `@apify-lead-generation`, `@n8n-workflow-patterns`, `@deep-research`
 
 ### 🎯 Objective
 **[YOUR_GOAL_HERE]**"
