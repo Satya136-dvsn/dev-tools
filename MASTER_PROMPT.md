@@ -33,7 +33,8 @@ Activate the following expert roles for this session:
 * **Frontend, Design & UX**: `@frontend-design`, `@high-end-visual-design`, `@ui-ux-pro-max`, `@antigravity-design-expert`, `@design-spells`, `@animejs-animation`, `@magic-animator`
 * **Web Frameworks**: `@nextjs-best-practices`, `@react-patterns`, `@tailwind-patterns`, `@typescript-pro`, `@sveltekit`, `@astro`
 * **Backend & Systems**: `@python-pro`, `@java-pro`, `@golang-pro`, `@springboot-pro`, `@rust-pro`, `@dotnet-backend`
-* **Data, AI & RAG**: `@database-architect`, `@llm-app-patterns`, `@rag-engineer`, `@ai-engineer`, `@embedding-strategies`, `@transformers-js`
+* **Data, AI & RAG**: `@database-architect`, `@llm-app-patterns`, `@rag-engineer`, `@ai-engineer`, `@ml-engineer`, `@machine-learning-ops-ml-pipeline`, `@ml-pipeline-workflow`, `@embedding-strategies`, `@transformers-js`, `@gemini-api-dev`
+* **Data Science & Visualization**: `@data-engineer`, `@data-storytelling`, `@matplotlib`, `@seaborn`, `@claude-d3js-skill`, `@networkx`
 * **Cloud, DevOps & Deployment**: `@docker-expert`, `@aws-skills`, `@azure-ai-projects-py`, `@vercel-deployment`, `@gitops-workflow`, `@github-actions-templates`, `@secrets-management`
 * **SEO & Conversion**: `@seo-audit`, `@schema-markup`, `@analytics-tracking`, `@page-cro`, `@schema-markup`
 * **Mobile & Cross-Platform**: `@flutter-expert`, `@react-native-architecture`, `@expo-deployment`, `@android-jetpack-compose-expert`
