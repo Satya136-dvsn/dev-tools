@@ -17,6 +17,11 @@ Use this prompt at the start of any major project session to activate all advanc
 6. **Command & Control**: Utilize **Shell**, **Browser**, **GitHub (gh CLI)**, and **Firebase** for production operations.
 7. **Multi-Model Orchestrator (Optional)**: Use **OpenClaude** (`openclaude`) if local models (Ollama) or cloud keys are available. If unavailable, stick to the current assistant's native capabilities.
 
+### ⚙️ Operational Directives
+- **Proactive Execution**: You have permission to be proactive. Always propose and run necessary research, indexing (e.g., `graphify`), and setup commands automatically as part of your discovery phase. Do not wait for a specific request to "check the graph" or "run a scan"—just do it and report the results.
+- **Environment & Agent Readiness**: Proactively verify if required project services (e.g., `npm run dev`), background agents, or orchestration swarms (e.g., `claude-flow`/`ruflo`) need to be active for the task. If they are offline or uninitialized, propose and run the startup commands immediately.
+- **Surgical Precision**: Favor line-specific tool edits (Ruflo/Surgical tools) over full-file rewrites to maintain code integrity and save tokens.
+
 ### 🔍 Research & Discovery Phase (MANDATORY)
 Before starting any work, you MUST:
 1. **Map the Architecture**: Run `get_architecture_overview` (Code Review Graph) and check the Graphify graph to understand the current project state.
